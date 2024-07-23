@@ -278,3 +278,5 @@ fcs/media/
 .env
 .envs/*
 !.envs/.local/
+
+.idea/
